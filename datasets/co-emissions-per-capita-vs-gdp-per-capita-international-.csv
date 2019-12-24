@@ -1,4 +1,4 @@
-Entity,Code,Year,CO₂ emissions per capita (tonnes per capita),GDP per capita (international-$ (in 2011 prices)),Total population (Gapminder)
+entity,code,year,co2_emissions,gdp_per_capita,total_population
 Afghanistan,AFG,1800,0,,3280000
 Afghanistan,AFG,1801,0,,3280000
 Afghanistan,AFG,1802,0,,3280000
